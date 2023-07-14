@@ -1,4 +1,4 @@
-# project1
+# Tic-Tac-Toe
 
 A new Flutter project.
 
